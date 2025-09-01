@@ -126,7 +126,7 @@ flowchart LR
 Comprehensive exploratory analysis revealing key patterns in Netflix's content strategy:
 
 ### Visual Analytics Portfolio
-- **Content Type Distribution**: [Content Type Analysis](./visuals/eda/content_type_distribution.png)
+- **Content Type Distribution**: [Content Type Analysis](Netflix_Visualization/content_distribution.png)
 - **Top 10 Genres**: [Genre Distribution](./visuals/eda/top10_genres_distribution.png)
 - **Ratings Distribution**: [Content Ratings](./visuals/eda/ratings_distribution.png)
 - **Yearly Trends**: [Release Year Trends](./visuals/eda/yearly_trends_analysis.png)
