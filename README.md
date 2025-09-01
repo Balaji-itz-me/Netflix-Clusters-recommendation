@@ -29,7 +29,7 @@
 
 ## 🎯 Project Overview
 
-This comprehensive data science project applies advanced clustering techniques to Netflix's content catalog, delivering strategic insights for content recommendation systems, market targeting, and production planning. By leveraging **Hierarchical Clustering**, **DBSCAN**, and **K-Means** algorithms, we uncover hidden patterns in Netflix's 8,000+ title dataset to drive business value across four key use cases.
+The project focuses on clustering Netflix movies and TV shows based on various features like genre, rating, and duration. The goal is to use unsupervised machine learning techniques to identify similar content groups, which can help users discover content based on preferences.
 
 ### 🎪 Project Highlights
 - **83 DBSCAN clusters** identified for granular content segmentation
