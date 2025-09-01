@@ -75,7 +75,7 @@ graph TD
 
 | **Attribute** | **Details** |
 |---------------|-------------|
-| **Dataset Size** | 8,807 Netflix titles |
+| **Dataset Size** | 7700+ Netflix titles |
 | **Features** | 12 key attributes (Title, Genre, Country, Release Year, Rating, etc.) |
 | **Time Span** | 1925 - 2021 (96 years of content) |
 | **Content Types** | Movies, TV Shows, Documentaries |
@@ -425,6 +425,5 @@ If you use this project in your research or work, please cite:
 [![Star this repo](https://img.shields.io/github/stars/Balaji-itz-me/Netflix-Clusters-recommendation?style=social)](https://github.com/Balaji-itz-me/Netflix-Clusters-recommendation)
 [![Fork this repo](https://img.shields.io/github/forks/Balaji-itz-me/Netflix-Clusters-recommendation?style=social)](https://github.com/Balaji-itz-me/Netflix-Clusters-recommendation/fork)
 
-**Made with care for the Data Science Community**
 
 </div>
