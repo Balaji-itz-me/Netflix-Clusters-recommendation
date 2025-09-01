@@ -1,7 +1,7 @@
 # 🎬 Netflix Content Clustering Analysis
 *Advanced Machine Learning Approach to Content Strategy & Personalization*
 
-![Netflix Banner](https://via.placeholder.com/1200x300/E50914/FFFFFF?text=Netflix+Content+Clustering+Analysis)
+![Netflix Banner](Netflix_Visualization/Netflix.png)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-orange?logo=pandas&logoColor=white)](https://pandas.pydata.org)
