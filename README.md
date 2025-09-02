@@ -127,9 +127,9 @@ Comprehensive exploratory analysis revealing key patterns in Netflix's content s
 
 ### Visual Analytics Portfolio
 - **Content Type Distribution**: [Content Type Analysis](Netflix_Visualization/content_distribution.png)
-- **Top 10 Genres**: [Genre Distribution](./visuals/eda/top10_genres_distribution.png)
-- **Ratings Distribution**: [Content Ratings](./visuals/eda/ratings_distribution.png)
-- **Yearly Trends**: [Release Year Trends](./visuals/eda/yearly_trends_analysis.png)
+- **Top 10 Genres**: [Genre Distribution](Netflix_Visualization/top_10_genres.png)
+- **Ratings Distribution**: [Content Ratings](Netflix_Visualization/ratings_distribution.png)
+- **Yearly Trends**: [Release Year Trends](Netflix_Visualization/yearly_trends.png)
 
 ### Key EDA Discoveries
 - **Content Explosion**: 750+ titles added annually during peak years (2018-2020)
@@ -167,9 +167,9 @@ Comprehensive exploratory analysis revealing key patterns in Netflix's content s
 ### Clustering Visualizations
 
 **Dimensionality Reduction Analysis:**
-- **PCA 2D Plots**: [Hierarchical PCA](./visuals/clustering/hierarchical_pca_2d.png) | [DBSCAN PCA](./visuals/clustering/dbscan_pca_2d.png) | [K-Means PCA](./visuals/clustering/kmeans_pca_2d.png)
-- **PCA 3D Plots**: [Hierarchical 3D](./visuals/clustering/hierarchical_pca_3d.png) | [DBSCAN 3D](./visuals/clustering/dbscan_pca_3d.png) | [K-Means 3D](./visuals/clustering/kmeans_pca_3d.png)
-- **t-SNE 2D Plots**: [Hierarchical t-SNE](./visuals/clustering/hierarchical_tsne_2d.png) | [DBSCAN t-SNE](./visuals/clustering/dbscan_tsne_2d.png) | [K-Means t-SNE](./visuals/clustering/kmeans_tsne_2d.png)
+- **PCA 2D Plots**: [Hierarchical PCA](Netflix_Visualization/pca_2d_hierarchical.png)  | [K-Means PCA](Netflix_Visualization/pca_2d_k_13_kmeans.png)
+- **PCA 3D Plots**: [Hierarchical 3D](Netflix_Visualization/pca_3d_heirarchical.png) | [DBSCAN 3D](Netflix_Visualization/pca_3d_dbscan.png) | [K-Means 3D](Netflix_Visualization/pca_3d_k_13_kmeans.png)
+- **t-SNE 2D Plots**: [Hierarchical t-SNE](Netflix_Visualization/tsne_2d_heirarchical.png) | [DBSCAN t-SNE](Netflix_Visualization/tsne_2d_dbscan.png) | [K-Means t-SNE](Netflix_Visualization/tsne_k_13_kmeans.png)
 
 ---
 
